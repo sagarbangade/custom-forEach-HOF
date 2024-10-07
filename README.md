@@ -50,13 +50,13 @@ forEachCustom(numbers, logElement);
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/sagarbangade/.git
+   git clone https://github.com/sagarbangade/custom-forEach-HOF.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd 
+   cd custom-forEach-HOF
    ```
 
 3. Open the `forEachCustom.js` file in your preferred text editor to explore and test the implementation.
