@@ -1,4 +1,4 @@
-# custom-foreach-hof
+# custom-forEach-HOF
 
 This repository contains a custom implementation of the `forEach()` method in JavaScript, showcasing how to create a higher-order function. The custom function, `forEachCustom()`, behaves similarly to JavaScript's native `forEach()` and demonstrates how to iterate over arrays while applying a callback function to each element.
 
@@ -50,13 +50,13 @@ forEachCustom(numbers, logElement);
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/sagarbangade/custom-forEach-HOF.git
+   git clone https://github.com/sagarbangade/.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd custom-forEach-HOF
+   cd 
    ```
 
 3. Open the `forEachCustom.js` file in your preferred text editor to explore and test the implementation.
